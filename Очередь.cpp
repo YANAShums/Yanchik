@@ -116,6 +116,7 @@ void DeleteAll(TList2 **begin,TList2 **end) {
 
 int main()
 {
+	cout << "Яна и Саша хотят автомат по вврпо!" << endl.
 	int in, out, n, kol;
 	TList2* begin = NULL, * end = NULL;
 	while (true) {
